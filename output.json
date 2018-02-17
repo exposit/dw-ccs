@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[{% for post in site.posts %}{
+	"cc-name": "{% assign words = post.slug | replace: '-', ' ' | split: ' ' %}{% capture titlecase %}{% for word in words %}{{ word | capitalize }} {% endfor %}{% endcapture %}{{ titlecase }}",
+	"source": "{{post.source}}",
+	"source-url": "{{post.source-url}}",
+	"license": "{{post.license}}",
+	"cost": "{{post.cost}}",
+	"author": "{{post.author}}",
+	"trigger": "{{post.trigger}}",
+	"description": "{{post.excerpt}}",
+	"content": "{{post.content}}",
+	"link": "{{post.link}}",
+	"tags": "{{ post.tags | array_to_sentence_string }}",
+	"categories": "{{post.categories}}"
+}{% if forloop.rindex0 > 0 %},{% endif %}{% endfor %}]
