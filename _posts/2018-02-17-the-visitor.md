@@ -12,6 +12,9 @@ trigger: If you are a visitor from another time, place, or world, unfamiliar wit
 categories:
 - fighter
 
+tags:
+- dungeon planet
+
 license: non-open
 cost: paid
 ---

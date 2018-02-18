@@ -12,6 +12,9 @@ trigger: Once you train to be a precise shot with a rifle or laser gun...
 categories:
 - fighter
 
+tags:
+- dungeon planet
+
 license: non-open
 cost: paid
 ---

@@ -12,6 +12,9 @@ trigger: When you have laboratory training and a rational world-view...
 categories:
 - fighter
 
+tags:
+- dungeon planet
+
 license: non-open
 cost: paid
 ---
