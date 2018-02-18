@@ -1,7 +1,7 @@
 ---
 layout: entry
 link: https://drive.google.com/file/d/0BzeF5GXNEsnfWFhFWHBNQ05TVm8/view
-author:
+author: ['Adam Koebel', 'Sage LaTorra']
 source:
 source-url:
 
