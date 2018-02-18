@@ -13,7 +13,7 @@ categories:
 - fighter
 
 tags:
-- backer classes
+- backer class
 
 license: non-open
 cost: free

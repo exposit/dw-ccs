@@ -1,7 +1,7 @@
 ---
 layout: entry
 link: https://drive.google.com/file/d/0BzeF5GXNEsnfWFhFWHBNQ05TVm8/view
-author: Core
+author: 
 source:
 source-url:
 
@@ -13,7 +13,7 @@ categories:
 - fighter
 
 tags:
-- backer classes
+- backer class
 
 license: non-open
 cost: free
