@@ -7,14 +7,10 @@ source-url: https://drive.google.com/file/d/0B8_Fz4m5hcoiTXpTbklDOF9iUHc/view
 
 excerpt:
 
-trigger: When you wear the skin of an animal as an intimidation tactic
-during a battle,...
+trigger: When you are a werespider and are granted the favor of the Spider-Mother...
 
 categories:
 - fighter
-
-tags:
-- dungeon world guide
 
 license: non-open
 cost: free

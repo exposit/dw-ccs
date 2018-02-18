@@ -12,6 +12,9 @@ trigger: When you embrace the fate of carrying an intelligent weapon...
 categories:
 - fighter
 
+tags:
+- backer classes
+
 license: non-open
 cost: free
 ---
