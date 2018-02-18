@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/4547/Fnhaver-Industries
 
 excerpt:
 
-trigger: ...
+trigger: When you learn the altered, twisted True Name of someone who is dead...
 
 categories:
 - fighter

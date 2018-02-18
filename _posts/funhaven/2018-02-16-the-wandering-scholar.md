@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/4547/Fnhaver-Industries
 
 excerpt:
 
-trigger: ...
+trigger: When you distinguish yourself as a scholar through training, publicized scholarship or acceptance in learned circles...
 
 categories:
 - fighter
