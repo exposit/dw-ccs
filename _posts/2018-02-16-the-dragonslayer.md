@@ -2,8 +2,8 @@
 layout: entry
 link: http://www.drivethrurpg.com/product/213115/Minimal-Compendium-Classes
 author: ['Adam Koebel', 'Sage LaTorra']
-source:
-source-url:
+source: Sentinel Sheets
+source-url: http://www.drivethrurpg.com/browse/pub/11532/Sentinel-Sheets
 
 excerpt:
 

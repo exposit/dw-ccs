@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/11532/Sentinel-Sheets
 
 excerpt:
 
-trigger: When you are granted a hold by your betters...
+trigger: When you return from the wraith lands...
 
 categories:
 - fighter
