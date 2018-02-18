@@ -1,0 +1,17 @@
+---
+layout: entry
+link: http://www.drivethrurpg.com/product/112308/Adventures-on-Dungeon-Planet
+author: Johnstone Metzger
+source: Red Box Vancouver
+source-url: http://www.drivethrurpg.com/browse/pub/4483/Red-Box-Vancouver
+
+excerpt:
+
+trigger: When you have laboratory training and a rational world-view...
+
+categories:
+- fighter
+
+license: non-open
+cost: paid
+---
