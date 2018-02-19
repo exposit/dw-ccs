@@ -32,7 +32,7 @@
 			<td class="source">
 				{% if post.source-url %}<a href="{{ post.source-url }}" target="new">{{ post.source }}</a>{% else %} {{ post.source }} {% endif %}</td>
 			<td class="cost">{{ post.cost }}</td>
-			<td class="author"><a href="{{ site.baseurl }}/authors.html#{{post.author}}">{{ post.author | join: ", " }}</a></td>
+			<td class="author">{{ post.author | join: ", " }}</td>
 			<td class="trigger">{{ post.trigger | truncate: 200 }}</td>
 			<td class="tags">{% if post.tags %}{% for tag in post.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}
 				{% endfor %}{% endif %}
