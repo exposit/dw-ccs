@@ -1,0 +1,20 @@
+---
+layout: entry
+link: http://www.drivethrurpg.com/product/178799/Dungeon-World-Secrets-and-Sorcery-Pack
+author: Peter Johansen
+source: Peter Johansen
+source-url: http://www.drivethrurpg.com/browse/pub/6532/Peter-Johansen
+
+excerpt:
+
+trigger: When your soul is bonded to the soul of a young dragon...
+
+categories:
+- fighter
+
+tags:
+- secrets and sorcery pack
+
+license: cc-by
+cost: pwyw
+---
