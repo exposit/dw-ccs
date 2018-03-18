@@ -1,9 +1,9 @@
 ---
 layout: entry
-link: https://drive.google.com/file/d/0B8_Fz4m5hcoiTXpTbklDOF9iUHc/view
+link: https://web.archive.org/web/20150109164924/https://dl.dropboxusercontent.com/u/9114003/Dungeon%20World%20Stuff.zip
 author: Emong
-source: Dungeon World Guide
-source-url: https://drive.google.com/file/d/0B8_Fz4m5hcoiTXpTbklDOF9iUHc/view
+source: Emong's Dungeon World Stuff
+source-url: 
 
 excerpt:
 
