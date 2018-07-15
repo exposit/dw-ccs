@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/13324/Level20Gaming
 
 excerpt:
 
-trigger:
+trigger: When you have been physically wounded by a creature of the Void and lived...
 
 categories:
 - fighter

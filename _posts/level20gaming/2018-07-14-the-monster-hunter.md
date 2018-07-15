@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/13324/Level20Gaming
 
 excerpt:
 
-trigger: When you take part in an ancient blood ritual to bind a demon's soul to your body...
+trigger: When you have taken the time to learn about the different properties of monsters and the benefits of creating items from their remains...
 
 categories:
 - fighter

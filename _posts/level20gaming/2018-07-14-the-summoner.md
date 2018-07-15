@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/13324/Level20Gaming
 
 excerpt:
 
-trigger:
+trigger: When you have gained a Talisman that allows you to tame, bind and summon fantastic monsters...
 
 categories:
 - fighter

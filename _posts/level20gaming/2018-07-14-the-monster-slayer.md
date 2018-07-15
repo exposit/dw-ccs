@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/13324/Level20Gaming
 
 excerpt:
 
-trigger:
+trigger: When you swear a vow to devote your life to the study and eradication of the creatures that stalk the night...
 
 categories:
 - fighter

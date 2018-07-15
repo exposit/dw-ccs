@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/13324/Level20Gaming
 
 excerpt:
 
-trigger:
+trigger: When you have caught the notice of a deity and proven to them your devout faith...
 
 categories:
 - fighter

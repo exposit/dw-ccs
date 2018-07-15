@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/13324/Level20Gaming
 
 excerpt:
 
-trigger:
+trigger: When a Phoenix has taken interest in you and either given you a portion of its magical power or joined its essence with yours...
 
 categories:
 - fighter

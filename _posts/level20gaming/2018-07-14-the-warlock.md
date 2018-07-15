@@ -7,7 +7,7 @@ source-url: http://www.drivethrurpg.com/browse/pub/13324/Level20Gaming
 
 excerpt:
 
-trigger:
+trigger: When you have sacrificed a sentient creature to a powerful demon or evil entity in order to gain demonic power...
 
 categories:
 - fighter
