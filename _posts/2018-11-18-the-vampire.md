@@ -7,7 +7,7 @@ source-url: https://plus.google.com/+CameronBurnsAU
 
 excerpt:
 
-trigger: When you are cursed through foul witchcraft or turned by an elder vampire.
+trigger: When you are cursed through foul witchcraft or turned by an elder vampire...
 
 categories:
 - monster
