@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you find or are chosen by an incredible technological device...
+trigger:  When you find or are chosen by an incredible technological device...
 license: cc-by
 cost: pwyw
 

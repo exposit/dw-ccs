@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you are joined to a group of minds but retain your identity...
+trigger:  When you are joined to a group of minds but retain your identity...
 
 license: cc-by
 cost: pwyw

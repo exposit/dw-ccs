@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you swear to the spirit of the bestial wilds that you will protect the natural world...
+trigger:  When you swear to the spirit of the bestial wilds that you will protect the natural world...
 license: cc-by
 cost: pwyw
 

@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When your flesh and blood is replaced, with metal, magic, or technology...
+trigger: When your flesh and blood is replaced, with metal, magic, or technology...
 
 license: cc-by
 cost: pwyw

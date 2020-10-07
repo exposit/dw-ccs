@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you take up the cause against tyrants and oppression...
+trigger:  When you take up the cause against tyrants and oppression...
 license: cc-by
 cost: pwyw
 

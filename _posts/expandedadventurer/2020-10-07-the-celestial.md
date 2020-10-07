@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you take the heart of a star and are made part of the Celestial Court...
+trigger:  When you take the heart of a star and are made part of the Celestial Court...
 
 license: cc-by
 cost: pwyw

@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you acquire a gang of violent, warlike minions...
+trigger:  When you acquire a gang of violent, warlike minions...
 license: cc-by
 cost: pwyw
 

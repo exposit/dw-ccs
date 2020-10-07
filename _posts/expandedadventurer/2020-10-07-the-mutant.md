@@ -4,9 +4,9 @@ layout: entry
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you are transformed into a genetically unstable creature...
+trigger:  When you are transformed into a genetically unstable creature...
 license: cc-by
 cost: pwyw
 

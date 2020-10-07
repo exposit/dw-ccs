@@ -1,12 +1,12 @@
----/Users/benjaminrosenbloom/Desktop/Expanded Adventurer/2020-10-07-the-ageless.txt
+---
 layout: entry
 
 link: https://benkrosenbloom.itch.io/expanded-adventurer
 author: [Ben K Rosenbloom, Trevor Murray]
 source: itch.io
-Source-url: https://benkrosenbloom.itch.io
+source-url: https://benkrosenbloom.itch.io
 
-excerpt: When you write a magic spell in your own blood...
+trigger: When you write a magic spell in your own blood...
 
 license: cc-by
 cost: pwyw
