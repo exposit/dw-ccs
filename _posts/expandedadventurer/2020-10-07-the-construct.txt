@@ -1,0 +1,20 @@
+---
+layout: entry
+
+link: https://benkrosenbloom.itch.io/expanded-adventurer
+author: [Ben K Rosenbloom, Trevor Murray]
+source: itch.io
+Source-url: https://benkrosenbloom.itch.io
+
+excerpt: When your flesh and blood is replaced, with metal, magic, or technology...
+
+license: cc-by
+cost: pwyw
+
+tags:
+- Expanded Adventurer
+
+---
+When your flesh and blood is replaced, with metal, magic, or technology...
+
+A compendium class for prosthetics, trans/metahumanoids, and cyberpunk(?) fantasy.

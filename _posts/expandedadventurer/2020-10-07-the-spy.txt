@@ -1,0 +1,19 @@
+---
+layout: entry
+
+link: https://benkrosenbloom.itch.io/expanded-adventurer
+author: [Ben K Rosenbloom, Trevor Murray]
+source: itch.io
+Source-url: https://benkrosenbloom.itch.io
+
+excerpt: When you are made the secret agent of some group or force...
+license: cc-by
+cost: pwyw
+
+tags:
+- Expanded Adventurer
+
+---
+When you are made the secret agent of some group or force...
+
+A compendium class for fun disguises, cloak and dagger secrets, and getting that quantum of solace at long last...

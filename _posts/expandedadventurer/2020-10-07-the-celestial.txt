@@ -1,0 +1,20 @@
+---
+layout: entry
+
+link: https://benkrosenbloom.itch.io/expanded-adventurer
+author: [Ben K Rosenbloom, Trevor Murray]
+source: itch.io
+Source-url: https://benkrosenbloom.itch.io
+
+excerpt: When you take the heart of a star and are made part of the Celestial Court...
+
+license: cc-by
+cost: pwyw
+
+tags:
+- Expanded Adventurer
+
+---
+When you take the heart of a star and are made part of the Celestial Court...
+
+A compendium class for rulers of invisible cities, stargazers and aristocrats, and beings of pure starlight.
